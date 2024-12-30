@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Garg</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-
+<img align="right" alt="coding" width ="400" src= "https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargdhruv12&label=Profile%20views&color=0e75b6&style=flat" alt="gargdhruv12" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dhruvgarg862389" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvgarg862389?logo=twitter&style=for-the-badge" alt="dhruvgarg862389" /></a> </p>
