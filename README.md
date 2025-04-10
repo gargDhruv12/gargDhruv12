@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/dhruvgarg862389" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvgarg862389?logo=twitter&style=for-the-badge" alt="dhruvgarg862389" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Artificial Intelligence and Machine Learning**
+- 💬 Ask me about **AI / ML**
 
 - 📫 How to reach me **dhruvgarg729729@gmail.com**
 
@@ -25,6 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gargdhruv12&show_icons=true&locale=en&layout=compact" alt="gargdhruv12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gargdhruv12&show_icons=true&locale=en" alt="gargdhruv12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gargdhruv12&" alt="gargdhruv12" /></p>
